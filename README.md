@@ -26,5 +26,5 @@ A linear regression is used to predict the ball's trajectory based on its positi
 ### Score Detection Accuracy: 95%
 ### Shot Detection Accuracy: 97%
 
-[🎥 Watch the Basketball Game Demo](https://github.com/Shivani767/AI-Basketball-Vision-Game/blob/Shivani/BasketBallGame%20-%20SampleScene%20-%20Windows_%20Mac_%20Linux%20-%20Unity%202022.3.16f1_%20_DX11_%202025-01-08%2020-47-39%20(1).mp4)
+[🎥 Watch the Basketball Game Demo](https://github.com/pandaforever111/AI-Basketball-Vision-Game/blob/main/258393791-2c42261d-0b8b-4a95-a4c1-e67875397c21.mp4)
 
